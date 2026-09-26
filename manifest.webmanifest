@@ -1,0 +1,32 @@
+{
+  "name": "The Man Card",
+  "short_name": "Man Card",
+  "description": "Feats, dings, and the Council's verdict. Revoke at your own risk.",
+  "start_url": "./man-card.html",
+  "scope": "./",
+  "id": "./man-card.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#0A0800",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
